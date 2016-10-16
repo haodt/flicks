@@ -1,2 +1,3 @@
 ## Video Walkthrough 
-<img src='http://i.imgur.com/bldlSUp.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://i.imgur.com/bldlSUp.gifv
+Github dont support gifv :(
