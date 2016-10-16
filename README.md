@@ -1,3 +1,2 @@
 ## Video Walkthrough 
-http://i.imgur.com/bldlSUp.gifv
-Github dont support gifv :(
+<img src="https://github.com/haodt/flicks/blob/master/walkthrough.gif?raw=true" />
